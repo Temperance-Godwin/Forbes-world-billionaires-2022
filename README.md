@@ -30,7 +30,7 @@ Data cleaning processes involved
 ![Null_values](https://github.com/Temperance-Godwin/Forbes-world-billionaires-2022/assets/156975460/adc33961-f3d3-40bc-aa73-0ab3d04030bc)
 5. The **IF function** was used to group the ages of persons into **"Young-aged"**, **"Middle-aged"**, and **"Old"**.
 ![If_function](https://github.com/Temperance-Godwin/Forbes-world-billionaires-2022/assets/156975460/04b877a7-3ecf-4c5e-8894-a6675afcce08)
-6. I deleted columns that were not needed for my analysis. Columns like "Bio", "About", "Number Of Siblings","Residence Mba", "Birth date", "Year","Month","City", and "State".
+6. I deleted columns that were not needed for my analysis. Columns like **"Bio"**, **"About"**, **"Number Of Siblings"**,**"Residence Mba"**, **"Birth date"**, **"Year"**, **"Month"**, **"City"**, and **"State"**.
 7. I added currency figure in the **Final worth** column.
 ![Currency_figure](https://github.com/Temperance-Godwin/Forbes-world-billionaires-2022/assets/156975460/1af78412-b5fb-475e-9852-d94b6ea33b9e)
 
