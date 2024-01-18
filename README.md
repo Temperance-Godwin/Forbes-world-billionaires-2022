@@ -13,6 +13,9 @@ The project is to analyze and derive questions regarding the dataset.
 5. What age group has the highest majority of billionaires?
 6. What is the percentage of billionaires by gender?
 
+## SKILLS/CONCEPTS DEMONSTRATED
+Excel Functions: IF(),PROPER(), Removing duplicates
+
 ## DATA SOURCING.
 Onyx june challenge, click [here](https://onyxdata.co.uk/dataset_challenge/june-2022/)
 
@@ -59,3 +62,7 @@ There are more male billionaires than female billionaires. The percentage being 
 ## DATA VISUALIZATION.
 ![Dashboard](https://github.com/Temperance-Godwin/Forbes-world-billionaires-2022/assets/156975460/0c69bf0e-61c5-4487-95d6-1979bd005d59)
 To view the report, click [here](https://1drv.ms/x/s!AlSiYlj6CQxFgQcbjv32Kp_cxgQB)
+
+![Thank you](https://github.com/Temperance-Godwin/Forbes-world-billionaires-2022/assets/156975460/f6563ba6-1ad6-4d34-a3f3-8e7fbdf654df)
+
+## Thank you for following through.
