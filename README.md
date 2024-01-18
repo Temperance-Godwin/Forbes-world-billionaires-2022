@@ -58,3 +58,4 @@ There are more male billionaires than female billionaires. The percentage being 
 
 ## DATA VISUALIZATION.
 ![Dashboard](https://github.com/Temperance-Godwin/Forbes-world-billionaires-2022/assets/156975460/0c69bf0e-61c5-4487-95d6-1979bd005d59)
+To view the report, click [here](https://1drv.ms/x/s!AlSiYlj6CQxFgQcbjv32Kp_cxgQB)
