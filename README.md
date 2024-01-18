@@ -14,6 +14,14 @@ The project is to analyze and derive questions regarding the dataset.
 6. What is the percentage of billionaires by gender?
 
 ## Data Sourcing
+Onyx june challenge, click [here](https://onyxdata.co.uk/dataset_challenge/june-2022/)
 
 ## Data Cleaning
-The dataset contains 22
+The dataset contains 2668 rows and 22 columns
+![Dataset_preview](https://github.com/Temperance-Godwin/Forbes-world-billionaires-2022/assets/156975460/066502d1-caec-466e-a5ed-4d88705bbddd)
+
+
+
+
+
+
